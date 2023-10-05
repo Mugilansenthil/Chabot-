@@ -54,4 +54,4 @@ This chatbot is distributed under the (MIT License).
 
 **Contact:**
 
-For questions or support, please contact (Sairaman Mathivelan) by [Sairamsri2004@gmail.com]
+For questions or support, please contact (Mugilan senthil) by [smugilanmugilan1@gmail.com]
