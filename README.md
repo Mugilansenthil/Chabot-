@@ -23,7 +23,7 @@ This Python chatbot is a versatile and customizable conversational agent designe
 
 To get started with this Python chatbot, follow these steps:
 
-1. Clone the repository by https://github.com/Sai1721/chatbot
+1. Clone the repository by https://github.com/Mugilansenthil/chatbot-
 2. Install the required dependencies.
 3. Customize the chatbot's responses and behavior.
 4. Integrate it into your project or platform.
